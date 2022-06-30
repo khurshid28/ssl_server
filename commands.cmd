@@ -1,4 +1,5 @@
 mkdir server
+cd server
 
 git clone https://github.com/khurshid28/ssl_server.git
 
