@@ -25,6 +25,6 @@ cd ..
 npm i --save
 
 
-"server/ssl_server/"
+"server/ssl_server/app.js"
 
 
