@@ -7,7 +7,6 @@ cd ssl_server
 
 npm i --save
 
-npm run dev
 
 
 
